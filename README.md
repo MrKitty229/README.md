@@ -1,9 +1,4 @@
 # SanyaHuiSosi
-<!DOCTYPE html>
-
- <html>
-
- <body>
 
 <h1>Саня Хуй соси</h1>
 
